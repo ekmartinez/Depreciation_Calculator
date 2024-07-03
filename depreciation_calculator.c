@@ -34,7 +34,7 @@ int main(void) {
 /*
 Example:
 
-Enter historical cost of the assets: 1000.00
+Enter historical cost of the asset: 1000.00
 Enter the number of periods: 12
 
  Periods        Depreciation            Cost
