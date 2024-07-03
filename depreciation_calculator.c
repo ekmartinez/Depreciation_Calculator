@@ -33,3 +33,25 @@ int main(void) {
     return 0;
 }
 
+/*
+Example:
+
+Enter historical cost of the assets: 1000.00
+Enter the number of periods: 12
+
+ Periods        Depreciation            Cost
+       0                0.00         1000.00
+       1               83.33          916.67
+       2               83.33          833.33
+       3               83.33          750.00
+       4               83.33          666.67
+       5               83.33          583.33
+       6               83.33          500.00
+       7               83.33          416.67
+       8               83.33          333.33
+       9               83.33          250.00
+      10               83.33          166.67
+      11               83.33           83.33
+      12               83.33            0.00
+
+*/
