@@ -11,6 +11,7 @@ int main(void) {
     scanf("%d", &periods);
 
     double depreciation = cost / periods;
+
     printf("\n%8s\t%12s\t%12s\n", "Periods", "Depreciation", "Cost");
     printf("%8d\t%12.2f\t%12.2f\n", periods-periods, depreciation-depreciation, cost);
 
